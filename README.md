@@ -7,7 +7,7 @@
 <div>
   <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemJava.png">
   <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemPHP.png">
-  <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemPostgreSQL.png">
+  <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemBootstrap.png">
   <img height = 100em src="">
 </div>
 
