@@ -15,6 +15,7 @@
   <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemHTML.png">
 </div>
 
-<div>
-  <img src="linkedin.com/in/cauan-cisilio-80972326b/">
-</div>
+ <div> 
+  <a href = "mailto:cauan0218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cauan-cisilio-80972326b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </div>
