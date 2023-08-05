@@ -15,4 +15,6 @@
   <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemHTML.png">
 </div>
 
-
+<div>
+  <img src="https://www.linkedin.com/in/cauan-cisilio-80972326b/">
+</div>
