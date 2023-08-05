@@ -5,8 +5,8 @@
 - 🌱 Eu atualmente estudo Java e Git 
 
 <div>
-  <img src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemJava.png">
-  <img src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemPHP.png">
+  <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemJava.png">
+  <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemPHP.png">
   <img src="">
   <img src="">
 </div>
