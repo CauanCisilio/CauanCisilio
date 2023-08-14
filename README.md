@@ -7,7 +7,7 @@
   
 <h1>Tecnologias e frameworks</h1> <br>
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Carlo-Torres&layout=pie&theme=radical)](https://github.com/CauanCisilio/github-readme-stats)
+ 
   <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemJava.png">
   <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemPHP.png">
   <img height = 100em src="https://github.com/CauanCisilio/CauanCisilio/blob/main/imagemBootstrap.png">
