@@ -17,9 +17,6 @@
 </div>
 <br>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CauanCisilio&show_icons=true&locale=en" alt="CauanCislio" />
-</div>
 
 
  <div> 
