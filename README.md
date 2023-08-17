@@ -17,6 +17,8 @@
 </div>
 <br>
 <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CauanCisilio&show_icons=true&locale=en" alt="guilhermefonseca2021" /></p>
+
  <div> 
   <a href = "mailto:cauan0218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cauan-cisilio-80972326b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
