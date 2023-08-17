@@ -17,7 +17,10 @@
 </div>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CauanCisilio&show_icons=true&locale=en" alt="CauanCislio" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CauanCisilio&show_icons=true&locale=en" alt="CauanCislio" />
+</div>
+
 
  <div> 
   <a href = "mailto:cauan0218@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
