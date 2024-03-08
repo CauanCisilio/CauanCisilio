@@ -3,7 +3,7 @@
 
 - 🔭 Estou a procura de uma vaga como back end
 - 💻 Eu atualmente estudo Java e Git 
-- 👨‍🎓 Formando em análise e desenvolvimento de sistemas
+- 👨‍🎓 Formado em análise e desenvolvimento de sistemas
   
 <h1>Tecnologias e frameworks</h1> <br>
 <div>
